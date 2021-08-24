@@ -1,2 +1,4 @@
-# disciplina_progdevbd
-Repositório da disciplina de Programação e Desenvolvimento de Banco de Dados
+# Programação e Desenvolvimento de Banco de Dados
+Olá aluno(a)!
+
+Neste repositório você encontra todos os scripts desenvolvidos nas aulas da disciplina.
