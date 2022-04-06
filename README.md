@@ -1,5 +1,5 @@
 # Programação e Desenvolvimento de Banco de Dados
-Olá aluno(a)!
+Olá alun*!
 
 Neste repositório você encontra todos os scripts desenvolvidos nas aulas da disciplina.
 
@@ -11,7 +11,7 @@ Se tiver dificuldades na instalação, veja aqui este [tutorial de instalação 
 
 ##
 
-Fiquem atentos ao repositório, pois estarei sempre o atualizando com alguma informação adicional ou material complementar! 
+Fiquem atentos ao repositório, pois estarei sempre atualizando-o com alguma informação adicional ou material complementar! 
 
 
 Desejo a todos um ótimo aprendizado!
