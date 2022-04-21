@@ -21,7 +21,6 @@ CREATE TABLE IF NOT EXISTS cidade (
 CREATE TABLE IF NOT EXISTS ponto_tur (
 	id INT(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
 	nome VARCHAR(50) NOT NULL DEFAULT '',
-	populacao INT(11) NOT NULL DEFAULT '0',
 	tipo ENUM('Atrativo', 'Serviço', 'Equipamento',
 	'Infraestrutura', 'Instituição', 'Organização'),
 	publicado ENUM('Não', 'Sim') NOT NULL DEFAULT 'Não'
